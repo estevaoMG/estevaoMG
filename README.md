@@ -21,6 +21,7 @@
 ## 📊 Estatísticas do GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estevaoMG&layout=compact&theme=radical)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=estevaoMG&show_icons=true&theme=radical)
 
 ---
